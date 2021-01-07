@@ -1,0 +1,21 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "Random de mensajes, prueba de paquete",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "packages",
+    "javascript",
+    "node"
+  ],
+  "author": "Fg",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./build/global.js"
+  },
+  "preferGlobal": true
+}
